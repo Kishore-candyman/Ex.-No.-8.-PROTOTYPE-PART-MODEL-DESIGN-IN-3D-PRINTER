@@ -46,9 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/2f005b59-ffa7-44fa-acca-330b0f997847)
+![image](https://github.com/user-attachments/assets/d84eb09c-2a80-4312-b49a-e08de25dbcf5)
 
-![image](https://github.com/user-attachments/assets/c48cc4de-bdf5-412a-8552-d76e97728f56)
+![image](https://github.com/user-attachments/assets/1a876d55-5b24-4b5b-b9d9-14f887330458)
 
 ### Name:KISHORE M
 ### Register Number:212224040161
